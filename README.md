@@ -1,6 +1,6 @@
 ## Hello, I'm Tega:
 - 🎓 Penultimate year Math + CS student at the University of Birmingham
-- 💻 Aspiring Machine Learning Engineer
+- 💻 Aspiring Backend Developer
 - 🌱 Currently learning AI/ML Fundamentals
 
 ## Tehcnical Skills:
