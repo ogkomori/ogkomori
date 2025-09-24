@@ -1,7 +1,6 @@
 ## Hello, I'm Tega:
-- 🎓 Penultimate year Math + CS student at the University of Birmingham
+- 🎓 Final year Math + CS student at the University of Birmingham
 - 💻 Aspiring Backend Developer
-- 🌱 Currently learning AI/ML Fundamentals
 
 ## Tehcnical Skills:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
